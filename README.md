@@ -1,3 +1,6 @@
 # hello-world
-HI there
+Hi there !
+
+I'm Vera.
+I have changed some words.
 
